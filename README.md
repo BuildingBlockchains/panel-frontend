@@ -1,10 +1,6 @@
 # Building Blockchains ICO Frontend Module
 
-![GitHub (pre-)release](https://img.shields.io/github/release/secret-tech/frontend-ico-dashboard/all.svg)
-[![Build Status](https://travis-ci.org/secret-tech/frontend-ico-dashboard.svg?branch=develop)](https://travis-ci.org/secret-tech/frontend-ico-dashboard)
-![license](https://img.shields.io/github/license/secret-tech/frontend-ico-dashboard.svg)
-
-This is frontend module of [Building Blockchains ICO Panel](https://icodashboard.space/). Checkout backend [here](https://github.com/secret-tech/backend-ico-dashboard).
+This is frontend module of [Building Blockchains ICO Panel](https://panel.buildingblockchains.ca/). Checkout backend [here](https://github.com/BuildingBlockchains/panel-backend).
 
 This web client can be used to connect panel's backend. Currently it has the following functionality:
 
@@ -13,7 +9,7 @@ This web client can be used to connect panel's backend. Currently it has the fol
 1. KYC verification using [Jumio Netverify](https://www.jumio.com/trusted-identity/netverify) service and [Sufti Pro](https://shuftipro.com) service
 1. Token purchase
 1. Displaying Investor's transaction history
-1. All important actions are protected with 2FA (email or google authenticator) by integration with [secret_tech Backend Verify](https://github.com/JincorTech/backend-verify) service
+1. All important actions are protected with 2FA (email or google authenticator) by integration with BBC Auth service
 
 
 ## How start application loacally?
